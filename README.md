@@ -20,4 +20,5 @@
    d. import "import 'package:flutter/material.dart';" pada menu.dart
    e. Pada menu.dart membuat widget widget yang diperlukan seperti dijelaskan di atas
    f. Membuka device manager dan memilih divice lalu 'Run" untuk melihat hasilnya atau bisa juga pada root aplikasi tulis perintah "flutter run -d chrome" untuk melihat hasilnya
-   g. inisiasi "git init" kemudian "git remote add origin https://github.com/caressaputri/inventory-mobile.git" lalu push aplikasi inventory_mobile ke git 
+   g. inisiasi "git init" kemudian "git remote add origin https://github.com/caressaputri/inventory-mobile.git" lalu push aplikasi inventory_mobile ke git pada banch master
+   
