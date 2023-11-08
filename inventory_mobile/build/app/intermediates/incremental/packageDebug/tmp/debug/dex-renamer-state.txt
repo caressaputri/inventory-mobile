@@ -1,0 +1,4 @@
+#Wed Nov 08 11:14:58 WIB 2023
+base.0=C\:\\Users\\Caressa\\Semester 3\\PBP\\Tugas Mobile\\tugas 7\\inventory_mobile\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
